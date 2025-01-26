@@ -1,0 +1,3 @@
+npm init -y
+npm i express mongoose jsonwebtoken bcrypt cookie-parser dotenv cors 
+npm i morgan // will show the requests in the console(routes and status code)
